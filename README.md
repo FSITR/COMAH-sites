@@ -14,3 +14,10 @@
 - UK postcode longitude and latitude.
 ## Algorithms used
 - Two clustering algorithms are used; K-Means and DBSCAN.
+
+## Overall flow
+- Below is a flow chart of the data, cleanning and analysis phases.
+- Note that the webscraping and classification stages are currently work in progress.
+
+
+<img src="images/COMAH flow chart.png">
